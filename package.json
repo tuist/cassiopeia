@@ -1,0 +1,16 @@
+{
+  "name": "@tuist/cassiopeia",
+  "private": true,
+  "description": "A remote cache server for modern build systems",
+  "keywords": [
+    "cache",
+    "tuist",
+    "build"
+  ],
+  "author": "Tuist",
+  "license": "MIT",
+  "packageManager": "pnpm@10.9.0",
+  "devDependencies": {
+    "wrangler": "^4.12.1"
+  }
+}

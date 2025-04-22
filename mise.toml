@@ -1,8 +1,8 @@
 [tools]
-"elixir" = "1.18.3"
-"erlang" = "27.3.2"
 "ubi:bazelbuild/bazel" = "8.2.0rc3"
 "asdf:rfrancis/asdf-gradle" = "8.13"
+"node" = "22.14.0"
+"pnpm" = "10.9"
 
 [hooks]
 postinstall = "mise run install"
