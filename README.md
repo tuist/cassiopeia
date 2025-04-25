@@ -1,6 +1,6 @@
-# Casiopeia
+# Cache
 
-Cassiopeia is a cache server for advanced build systems. It's powered by [Elixir](https://elixir-lang.org/) and designed to be highly scalable.
+This repository contains a remote cache server for modern build systems
 
 ## Supported interfaces
 
@@ -13,7 +13,7 @@ Cassiopeia is a cache server for advanced build systems. It's powered by [Elixir
 
 ### Set up
 
-1. Clone the project: `git@github.com:tuist/cassiopeia.git`.
+1. Clone the project: `git@github.com:tuist/cache.git`.
 2. Install dependencies: `mise install`.
 3. Start the server: `mise run dev`.
 4. Run the tests: `mise run test`.
